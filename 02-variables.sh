@@ -2,7 +2,7 @@
 
 #declaring of varible
 PERSON1=RANI
-PERSON2=RAJU
+PERSON2=RAM
 
 #reffering variable
 echo "$PERSON1:hello $PERSON2"
