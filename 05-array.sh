@@ -6,4 +6,4 @@ FRUITS=("Mango" "Apple" "Banana")
 #array always starts with 0.
 echo " First Fruit is :${FRUITS[0]}"
 echo " Second Fruit is :${FRUITS[1]}"
-echo " Third Fruit is :${FRUITS[2]}"
+echo " Third Fruit is :${FRUITS[@]}"
