@@ -1,7 +1,7 @@
 #!/bin/bash
 
-Var1=100
-Var2=300
+Var1=$1
+Var2=$2
 
 Sum=$(($Var1 + $Var2))
 
