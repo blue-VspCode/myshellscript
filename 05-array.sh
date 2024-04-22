@@ -1,5 +1,5 @@
 #!/bin/bash
-MOVIES=("Mango" "Apple" "Banana")
+FRUITS=("Mango" "Apple" "Banana")
 
 #size of array is 3.
 #index are 0,1,2
